@@ -1,1 +1,1 @@
-# congenial-octo-eureka
+This code is an implementation of an algorithm to find all k-mers that occur at least d times with at least k mismatches in a given text. The algorithm uses several functions and methods to compute Hamming distance, find all k-mismatches, and count k-mer frequencies in the text. The code may be considered complex because it combines several programming concepts such as string processing, data processing, and list processing.
